@@ -1,0 +1,32 @@
+html {
+    background-color:lavenderblush;
+
+}
+
+h1 {
+    color: navy;
+    position:block;
+    text-align: center;
+    letter-spacing: 10px;
+    font: bold;
+
+}
+
+.block-element {
+    position:block;
+}
+
+blockquote {
+    font: Times, bold;
+    position:block;
+    color:red; 
+
+}
+
+.inline-element {
+    position: inline; 
+    display: flex;
+    align-items: center;
+
+
+}
